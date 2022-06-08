@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: k3t-javascript-react-csr
   title: Javascript React CSR
-  description: 
+  description: Criar uma single page application usando ReactJs e client side render
   tags:
     - javascript
     - frontend
@@ -15,7 +15,7 @@ metadata:
     - react
     - client side render
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
